@@ -1,7 +1,7 @@
 name: Perspective
 favicon: null
-layout_spectrum: 0.9294085884466767
-typography_spectrum: 0.11429020063951612
+layout_spectrum: 0.25707
+typography_spectrum: 0.57666
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.8742889971472323
-  lightness: 0.350983954500407
-  saturation: 0.4580073419492692
-  rhythmicContrast: 0.7023162404075265
+    - '#1f2d9a'
+    - '#040404'
+    - '#6c5022'
+    - '#9c8946'
+    - '#d8e8e8'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
