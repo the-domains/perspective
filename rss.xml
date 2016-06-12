@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Perspective]]></title>
         <description><![CDATA[Perspective]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/perspective/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 02:19:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 12 Jun 2016 17:06:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/perspective/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Testing]]></title>
+            <description><![CDATA[<article><h1>Testing</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/14ebeb7c-ca6b-436c-b207-41cecd574a15.jpg"></article>]]></description>
+            <link>https://thegrid.ai/perspective/testing/index.html</link>
+            <guid isPermaLink="false">07f5719f-a8ed-4891-bdba-0322d2603846</guid>
+            <pubDate>Sun, 12 Jun 2016 17:06:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What do you look like from up here?]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/32160f03-dc91-4878-86c0-8fd756a85e85.jpg">]]></description>
-            <link>undefinedwhat-do-you-look-like-from-up-here/index.html</link>
+            <link>https://thegrid.ai/perspective/what-do-you-look-like-from-up-here/index.html</link>
             <guid isPermaLink="false">505b4e6e-b640-40ef-b196-4eeae8fe2b85</guid>
             <pubDate>Thu, 09 Jun 2016 02:18:22 GMT</pubDate>
         </item>
